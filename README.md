@@ -24,30 +24,39 @@ It achieves precise synchronization (**121µs**) using **MQTT-SN** and **NTP**, 
 
 ---
 
-## 📥 Installation Guide
-1. Clone this repository to your computer:  
-   ```bash
-   git clone https://github.com/purianaji/RealTime-Sensor-IoT.git
-2.Open the .ino file in Arduino IDE or VS Code (with PlatformIO).
-3.Flash the firmware to Raspberry Pi Pico W.
-4.Configure your MQTT broker and NTP server settings.
-5.Run the system and monitor data transmission.
+## 🔧 Installation Guide
+
+### 🏷️ **1️⃣ Clone this repository to your computer:**
+```sh
+git clone https://github.com/purianaji/RealTime-Sensor-IoT.git
+```
+### 🏷️ 2️⃣ Install Required Tools:
+🔹 Arduino IDE or VS Code (with PlatformIO)
+🔹 Ensure MQTT broker and NTP server are properly configured
+### 🏷️ 3️⃣ Flash the Firmware:
+🔹 Open the .ino file in Arduino IDE or VS Code
+🔹 Upload the firmware to Raspberry Pi Pico W
+### 🏷️ 4️⃣ Run & Monitor the System:
+🔹 Configure MQTT & NTP settings
+🔹 Run the system and monitor real-time data transmission
+
 
 ---
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License – feel free to use, modify, and distribute.
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 Want to improve this project? Feel free to open an Issue or submit a Pull Request.
 
 ---
 
 
-📧 Contact
+## 📧 Contact
 👤 Pooria Naji
 ✉️ puria.naji@gmail.com
-🔗 LinkedIn
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/pooria-naji-zavar-garmroudi-614284179/)
+
 
